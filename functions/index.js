@@ -42,7 +42,7 @@ app.post("/sendFirebase", (req, res) => {
     // eslint-disable-next-line max-len
     registration_ids: ["d0fcy-3ItPHPaytvvRgtuw:APA91bFlzOY_q6nsDDyPabknxKtAdfA4VBB9uUsZn7g--4e2pXkoNYPsE-pg9rxO6svP4qOl6-ywDoor9VC-ZIhROlWGijDM3Lkids4Qb--7wl25m7GOnFB2ZxQtw2uUIUiID-ZhaK8n", "cmNK21ySFTUuEhncfjAa4Z:APA91bHf2H_rxPkebPARpFBOCepYaUY4t_PUmgjwomHNziiq2YKbQ-C5EJoZl9I_7Sd8Z8V0Sjpb3TgNxosuOMmCy-AOQGkP0Mxac7dnog4xSGqAMnz3SSLBaVnhuwD20O5MGg1IHpZW"],
     notification: {
-      title: "Title of your push notification",
+      title: "Title of your push notificationee",
       body: "Body of your push notification",
     },
 
